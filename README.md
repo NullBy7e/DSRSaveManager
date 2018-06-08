@@ -1,4 +1,10 @@
 # DSRSaveManager
-Allows you to backup your DSR saves with a hotkey!
+Allows you to backup and restore your DSR saves with a hotkey!
 
-Start the program and press CTRL+B to automatically backup your DSR saves.
+Hotkeys:
+
+CTRL+O : Open the backup folder.
+CTRL+B : Backup your save data.
+CTRL+R : Restore the most recent backed up save data (autosave or manual).
+
+Save data is automatically backed up every 10 minutes.
